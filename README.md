@@ -13,6 +13,6 @@ Feel free to modify it and create your onw quiz to improve your time management 
 * `JavaScript`
 
 
-## How it looks 👀
-
+## You can try it here  👀
+<a href = "https://gitdigit.github.io/quiz-app/">Quiz App</a>
 
